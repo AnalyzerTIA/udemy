@@ -1,0 +1,15 @@
+[[package]]
+name = "my-module"
+version = "1.6.2"
+description = "a simple module for printing lists"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "dc2d91c3f57a28d38e96b15a20fab65b28837f0e0ebf0b86aa70000616b44df4"
+
+[metadata.files]
+my-module = []
